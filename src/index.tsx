@@ -2,7 +2,7 @@ import 'bulmaswatch/superhero/bulmaswatch.min.css';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import { store } from './state';
-import CellList from '../../../workspace2/udemy/reactAndTS/jsbook/src/components/cell-list';
+import CellList from '../src/components/cell-list';
 
 const App = () => {
   return (
